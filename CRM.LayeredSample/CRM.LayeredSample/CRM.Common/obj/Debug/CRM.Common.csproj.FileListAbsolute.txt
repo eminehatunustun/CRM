@@ -1,0 +1,12 @@
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.Common\bin\Debug\CRM.Common.dll
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.Common\bin\Debug\CRM.Common.pdb
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.Common\obj\Debug\CRM.Common.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.Common\obj\Debug\CRM.Common.dll
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.Common\obj\Debug\CRM.Common.pdb
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Common\bin\Debug\CRM.Common.dll
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Common\bin\Debug\CRM.Common.pdb
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Common\obj\Debug\CRM.Common.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Common\obj\Debug\CRM.Common.dll
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Common\obj\Debug\CRM.Common.pdb
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Common\bin\Debug\CRM.Entity.dll
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Common\bin\Debug\CRM.Entity.pdb

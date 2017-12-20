@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{67B08F12-9A49-4D17-9B99-FD66F2885C54}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CRM.UI</RootNamespace>
+    <AssemblyName>CRM.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adress\AllAdreses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adress\AllAdreses.Designer.cs">
+      <DependentUpon>AllAdreses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adress\DeleteAddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adress\DeleteAddress.Designer.cs">
+      <DependentUpon>DeleteAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adress\SaveAddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adress\SaveAddress.Designer.cs">
+      <DependentUpon>SaveAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adress\UpdateAddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adress\UpdateAddress.Designer.cs">
+      <DependentUpon>UpdateAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contact\AllContacts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact\AllContacts.Designer.cs">
+      <DependentUpon>AllContacts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contact\DeleteContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact\DeleteContact.Designer.cs">
+      <DependentUpon>DeleteContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contact\SaveContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact\SaveContact.Designer.cs">
+      <DependentUpon>SaveContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contact\UpdateContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact\UpdateContact.Designer.cs">
+      <DependentUpon>UpdateContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\AllCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\AllCustomers.Designer.cs">
+      <DependentUpon>AllCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\DeleteCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\DeleteCustomer.Designer.cs">
+      <DependentUpon>DeleteCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\SaveCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\SaveCustomer.Designer.cs">
+      <DependentUpon>SaveCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\UpdateCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\UpdateCustomer.Designer.cs">
+      <DependentUpon>UpdateCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Adress\AllAdreses.resx">
+      <DependentUpon>AllAdreses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adress\DeleteAddress.resx">
+      <DependentUpon>DeleteAddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adress\SaveAddress.resx">
+      <DependentUpon>SaveAddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adress\UpdateAddress.resx">
+      <DependentUpon>UpdateAddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact\AllContacts.resx">
+      <DependentUpon>AllContacts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact\DeleteContact.resx">
+      <DependentUpon>DeleteContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact\SaveContact.resx">
+      <DependentUpon>SaveContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact\UpdateContact.resx">
+      <DependentUpon>UpdateContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\AllCustomers.resx">
+      <DependentUpon>AllCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\DeleteCustomer.resx">
+      <DependentUpon>DeleteCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\SaveCustomer.resx">
+      <DependentUpon>SaveCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\UpdateCustomer.resx">
+      <DependentUpon>UpdateCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CRM.Common\CRM.Common.csproj">
+      <Project>{a4e3e074-e1b3-4c3f-a6a2-988a2fbcd7a4}</Project>
+      <Name>CRM.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CRM.Dal\CRM.Dal.csproj">
+      <Project>{d01d957f-bdd0-4e9e-9da4-a42783a063fc}</Project>
+      <Name>CRM.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CRM.Entity\CRM.Entity.csproj">
+      <Project>{f48d46b9-a993-4639-81af-1fb402773c5d}</Project>
+      <Name>CRM.Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

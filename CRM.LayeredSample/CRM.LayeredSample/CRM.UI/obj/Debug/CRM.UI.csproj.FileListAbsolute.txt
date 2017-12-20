@@ -1,0 +1,48 @@
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.exe.config
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.exe
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.pdb
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Properties.Resources.resources
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.csproj.GenerateResource.Cache
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.exe
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.pdb
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Common.dll
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Dal.dll
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Entity.dll
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Common.pdb
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Dal.pdb
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Entity.pdb
+C:\Users\Wissen\Desktop\EmineHatunUSTUN\KatmanliMimari\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Form1.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.exe.config
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.exe
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.pdb
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.exe
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.pdb
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Common.dll
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Dal.dll
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Entity.dll
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Common.pdb
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Dal.pdb
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Entity.pdb
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Form1.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Properties.Resources.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.csproj.GenerateResource.Cache
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Customer.AllCustomers.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Adress.AllAdreses.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Contact.AllContacts.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Customer.UpdateCustomer.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Adress.UpdateAddress.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Customer.DeleteCustomer.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Customer.SaveCustomer.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Adress.SaveAddress.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Contact.SaveContact.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Contact.DeleteContact.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Contact.UpdateContact.resources
+C:\Users\Emine Hatun\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Adress.DeleteAddress.resources
+C:\Users\Emine Hatun\Desktop\CRM\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.exe.config
+C:\Users\Emine Hatun\Desktop\CRM\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.exe
+C:\Users\Emine Hatun\Desktop\CRM\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\CRM\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.exe.config
+C:\Users\Emine Hatun\Desktop\ödevler\CRM\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.exe
+C:\Users\Emine Hatun\Desktop\ödevler\CRM\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.pdb
